@@ -1,7 +1,7 @@
 {
     "Header": {
 
-        "title": "Financial Bytes",
+        "title": "FastzSolutions",
         "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
 
     },
@@ -86,27 +86,27 @@
     ],
     "Team": [{
             "img": "img/team/01.jpg",
-            "name": "John Doe",
-            "job": "Director"
+            "name": "Puneet Arora",
+            "job": "UI Lead"
         },
         {
             "img": "img/team/02.jpg",
-            "name": "Mike Doe",
-            "job": "Senior Designer"
+            "name": "Abhineet",
+            "job": "Tech Lead"
         }, {
             "img": "img/team/03.jpg",
-            "name": "Jane Doe",
-            "job": "Senior Designer"
+            "name": "Shashank",
+            "job": "UI Lead"
         },
         {
             "img": "img/team/04.jpg",
-            "name": "Karen Doe",
+            "name": "John dee",
             "job": "Project Manager"
         }
     ],
     "Contact": {
         "address": "431/4 new shastri nagar New delhi ",
-        "phone": "+91 8299768422",
+        "phone": "+91 8884324408",
         "email": "info@company.com",
         "facebook": "fb.com",
         "twitter": "twitter.com",

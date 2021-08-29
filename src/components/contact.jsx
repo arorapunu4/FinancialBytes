@@ -150,7 +150,7 @@ export const Contact = (props) => {
       <div id='footer'>
         <div className='container text-center'>
           <p>
-            &copy; 2021 Financial Bytes Design by Puneet
+            &copy; 2021 FastzSolutions
   
           </p>
         </div>
